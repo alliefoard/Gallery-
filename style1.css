@@ -1,0 +1,10 @@
+
+.mySlides {
+    display: none;
+}
+
+.gallery {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
